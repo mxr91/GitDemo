@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 This is branch
 Test the --no-ff mode
 
-I just doing something.
+I just doing something.lol
